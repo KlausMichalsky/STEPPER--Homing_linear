@@ -9,7 +9,7 @@
 
 ####  HARDWARE:
   - MCU        : RP2040-Zero / (opcion para Arduino-Nano cambiando pins)
-  - Motor      : 55mm Linear Mini Stepper (AliExpress)
+  - Motor      : DC 5V/12V 15mm/20mm Schrittmotor 55mm Hub (Aliexpress: Motor-house Store)
   - Driver     : Step/Dir compatible con AccelStepper
   - Botón      : Inicio de homing (con debounce)
   - LED        : Estado del homing
