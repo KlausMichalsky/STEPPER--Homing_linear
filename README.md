@@ -13,4 +13,4 @@
   - Driver     : Step/Dir compatible con AccelStepper
   - Botón      : Inicio de homing (con debounce)
   - LED        : Estado del homing
-  - Iman       : 5x5mm Iman
+  - Iman       : 5x5mm
